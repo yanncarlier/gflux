@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA-nPXvx2K7wm9cCb8Pc05qgIV9aa8jzTw',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     appId: '1:1068264416968:web:5e644c36dd5295c121a7fd',
     messagingSenderId: '1068264416968',
     projectId: 'gflux-27d3d',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDSd8FGh8_M21mxhYbigP6u7ZVEB-uBUpQ',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
     appId: '1:1068264416968:android:8688065e673fc1e221a7fd',
     messagingSenderId: '1068264416968',
     projectId: 'gflux-27d3d',
