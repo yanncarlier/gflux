@@ -133,4 +133,5 @@ google-services.json
 What_to_Build.md
 # Ignore Draw.io auto-save/backup files
 .*.drawio.bkp
-
+# Some editors prepend ".$" to Draw.io backups
+.$*.drawio.bkp

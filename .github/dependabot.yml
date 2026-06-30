@@ -1,0 +1,29 @@
+version: 2
+updates:
+- package-ecosystem: gradle
+  directory: /android
+  schedule:
+    interval: weekly
+  groups:
+    grouped-security-updates:
+      applies-to: security-updates
+      patterns:
+      - '*'
+- package-ecosystem: gradle
+  directory: /android/app
+  schedule:
+    interval: weekly
+  groups:
+    grouped-security-updates:
+      applies-to: security-updates
+      patterns:
+      - '*'
+- package-ecosystem: pub
+  directory: /
+  schedule:
+    interval: weekly
+  groups:
+    grouped-security-updates:
+      applies-to: security-updates
+      patterns:
+      - '*'
