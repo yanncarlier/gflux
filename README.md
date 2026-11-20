@@ -4,6 +4,8 @@
 ### Latest Release:  
 https://github.com/yanncarlier/GFlux/releases/tag/v1.3.0 
 
+https://youtube.com/shorts/RTXuztyaa2c 
+
 **GFlux** is a high-performance, real-time multimodal AI agent built for the **Gemini Live Agent Challenge**. It leverages the cutting-edge Gemini Multimodal Live API to provide seamless, low-latency bidirectional voice and text interactions in a premium mobile environment.
 
 > [!NOTE]
